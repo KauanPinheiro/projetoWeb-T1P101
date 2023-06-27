@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+}
+/*insirindo imagem de fundo*/
+body{
+    background-image: url("/imagens/HorizonForbiddenWest.jpg");
+    background-repeat : no-repeat;
+    background-position:  right ;
+    background-attachment: scroll ;
+    background-size: cover;
+}
